@@ -1,2 +1,5 @@
-NLP/NLP0/NLP0
+NLP/NLP0/NLP0/bin
+NLP/NLP0/NLP0/include
+NLP/NLP0/NLP0/lib
+NLP/NLP0/NLP0/pyvenv.cfg
 .vscode/
